@@ -1,11 +1,12 @@
+body {
+background-color: aqua
+}
 .lesson {
-    height: 100px;
-    width: 100px;
-    border-bottom: 10px solid lightslategray;
-    background-color: aqua;
+    height: 200px;
+    max-width: fit-content;
 }
 
-h1 {
-    text-align: center;
-    line-height: 100px;
+.box {
+    height: 200px;
+    width: 300px;
 }
