@@ -1,0 +1,11 @@
+.lesson {
+    height: 100px;
+    width: 100px;
+    border-bottom: 10px solid lightslategray;
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+    line-height: 100px;
+}
